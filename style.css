@@ -1,0 +1,34 @@
+body {
+    background-color: lightcyan;
+    border: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: blue;
+}
+
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color: hotpink;
+}
+
+p{
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+    padding: 100px;
+    margin: 20%;
+    background-color: powderblue;
+    color: mediumblue;
+    font-size: 35px;
+    text-align: center;
+    border-radius: 20px;
+}
